@@ -4,4 +4,4 @@ Ceci est un repos qui contient un faux projet juste pour tester git.
 
 ## Scripts Python
 
-- hello world
+- hello world : Affiche le messsage en entier
